@@ -1,4 +1,3 @@
-
 ---
 name: "Enviar una sugerencia"
 about: "Propón mejoras y nuevas funciones para DTouch Mirror"
