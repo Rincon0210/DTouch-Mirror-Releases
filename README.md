@@ -1,4 +1,4 @@
-# DTouch Mirror by Rincon
+# DTouch Mirror
 
 Repositorio oficial de instaladores y actualizaciones de DTouch Mirror.
 
